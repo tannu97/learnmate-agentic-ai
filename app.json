@@ -1,0 +1,11 @@
+{
+"projectName": "LearnMate - Agentic AI for Personalized Course Pathways",
+"problemStatement": "Problem Statement No.12",
+"technologies": [
+"Langflow",
+"IBM watsonx.ai",
+"IBM Granite",
+"IBM Cloud Lite"
+],
+"description": "LearnMate is an Agentic AI coach that helps students assess skills and generate personalized learning roadmaps."
+}
